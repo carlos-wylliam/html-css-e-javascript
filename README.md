@@ -26,7 +26,7 @@ Este repositório é voltado para o meu aprendizado pessoal, mas contribuições
 
 ## Contato
 
-Você pode me contatar pelo e-mail [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
+Você pode me contatar pelo e-mail [seu-email@exemplo.com](mailto:carloswylliam023@gmail.com).
 
 ---
 
